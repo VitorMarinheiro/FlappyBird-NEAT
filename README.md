@@ -1,4 +1,4 @@
-FlappyBird-NEAT
+# FlappyBird-NEAT
 
 Implementação de uma rede neural artificial utilizando Python com a biblioteca NEAT para aprendizado do jogo Flappy Bird.
 
